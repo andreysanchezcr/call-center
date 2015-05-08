@@ -1,0 +1,10 @@
+para ejecutar tienen que iniciar primero el servidor y luego el cliente....
+
+a la hora de probar lo que tienen que escribir en los clientes (Abran por lo menos 2)
+es los numeros del uno al cinco
+
+ejemplo: 
+Ponen 1 y le dan enter
+ponen 2 y le dan enter 
+
+... despues de eso tratar de entender el condigo para que lo entiendan 
